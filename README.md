@@ -2,6 +2,7 @@
 
 Change.
 Change 2.
+Git Hub Edit.
 
 This repository contains the computing bootcamp materials for incoming
 Ph.D. and M.S. students to the Department of Statistical Science at
